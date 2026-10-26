@@ -9,7 +9,7 @@ Record exactly what you choose: just the screen, just the internal audio, just t
   <img width="24%" height="24%" alt="e407dc4d77acedad0f466846c42d0537" src="https://github.com/user-attachments/assets/9220b686-c4cd-4497-8e2b-a35306013166" />
   <img width="24%" height="24%" alt="cdb62a6f5053b9eca79b5f0e2052eaa3" src="https://github.com/user-attachments/assets/89b78a05-da81-4931-9e2f-8c5c4314f455" />
 </p>
--->
+
 
 
 ## Features
