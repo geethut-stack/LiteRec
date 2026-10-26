@@ -129,4 +129,4 @@ Issues and pull requests are welcome. Before opening a PR, please test the sourc
 
 ## License
 
-Add a license before publishing (MIT or Apache-2.0 are common choices for permissive projects), then name it here.
+MIT
