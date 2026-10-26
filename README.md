@@ -95,6 +95,9 @@ microphone    -> AudioRecord (mic) ---------------+-> mixer -> AAC --/
 - Android 10 (API 29) or newer. System audio capture needs Android 10+.
 - To build: Android Studio (Ladybug or newer) and JDK 17+.
 
+## Release
+Download from [Releases](../../releases)
+
 ## Build
 
 1. Clone the repo and open it in Android Studio. Let Gradle sync.
