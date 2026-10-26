@@ -3,7 +3,6 @@
 **A lightweight Android screen, system-audio and microphone recorder.**
 Record exactly what you choose: just the screen, just the internal audio, just the mic, or any combination. No ads, no accounts, no analytics, and no internet permission.
 
-<!-- Add screenshots here, for example:
 <p align="center">
   <img width="24%" height="24%" alt="74de6962573907553eac7cf331d1a44a" src="https://github.com/user-attachments/assets/d55213c8-babd-4ec5-91b7-5b7fe167e484" />
   <img width="24%" height="24%" alt="bb9044d80d9f10c19d59d9d2a3d11d9d" src="https://github.com/user-attachments/assets/c51cd65f-cb60-4ae6-bd61-7e58faa638a5" />
