@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiteRec</string>
+    <string name="tile_label">Record</string>
+</resources>
